@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+Title of the Project: OMNIVISION: Image Captioning Model
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Abstract:
 
-## Available Scripts
+Visually impaired individuals often struggle with independence in their daily lives, whichcan lead to diminished confidence and challenges in securing employment. This project,OmniVision, seeks to transform this dependence into independence by developing an advanced image captioning model.  By integratinga text-to-speech engine, OmniVision offers immediate auditory feedback, enhancing the user's ability to navigate and understand their environment. The ultimate goal is to empower visually impaired persons with greater self reliance and open up new opportunities for employment, thereby improving their overall quality of life.
 
-In the project directory, you can run:
+Introduction to the Project:
 
-### `npm start`
+The OMNIVISION is an innovation image captioning model developed using python libraries TensorFlow. The main goal of this model is to generate a one- line description of a given image. This project aims to assist visually impaired individuals by providing audio descriptions of images, thereby enhancing their understanding of their surroundings. Designed to assist visually impaired individuals, it converts these captions into audio output, thereby enabling better understanding of their surroundings. With a focus on high accuracy and real-time processing, OmniVision leverages advanced algorithms in computer vision and natural language processing to create a seamless user experience. This project also explores applications in various fields, including law enforcement, healthcare, and crowd counting.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Statement about the problem:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Visually Impaired persons face a lack of independence in their daily life resulting in a lack of confidence and unemployability. The current project aims to change this dependence into
+independence and provide them with the possibility of employment.
 
-### `npm test`
+System Requirement specification:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Software Requirement :Visual studio code (React), Python Libraries, Text-to-Speech (TTS) Engine, TensorFlow.
 
-### `npm run build`
+Methodology:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To perform this step, define the scope of the applied research clearly, focusing on developing and testing the image captioning model with native language audio output. Recruit a diverse
+sample of visually impaired participants through local organizations, community groups, or online platforms. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Link : https://drive.google.com/file/d/136UHHs1k6AmnQ9RJiTsio9fPeKlNI0NS/view?usp=sharing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
